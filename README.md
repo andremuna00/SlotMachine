@@ -60,5 +60,5 @@ This was a personal educational project, but feel free to fork it and make your 
 ## 📜 License
 This project is open source and available under the MIT License.
 ## ✨ Acknowledgments
-High school CS teacher for providing this challenging and rewarding assignment
-Fellow students who tested the game and provided feedback
+- High school CS teacher for providing this challenging and rewarding assignment
+- Fellow students who tested the game and provided feedback
